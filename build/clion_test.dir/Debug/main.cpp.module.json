@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "clion_test.dir\\Debug\\main.obj",
+            "outputs": [
+                "D:\\DeskTop\\test\\clion_test\\build\\clion_test.dir\\Debug\\vc143.pdb",
+                "clion_test.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

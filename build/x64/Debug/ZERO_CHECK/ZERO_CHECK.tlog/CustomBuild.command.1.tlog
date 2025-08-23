@@ -1,0 +1,10 @@
+^D:\DESKTOP\TEST\CLION_TEST\BUILD\CMAKEFILES\9B08E761918E53C13050335058E3B1CD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/DeskTop/test/clion_test -BD:/DeskTop/test/clion_test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/DeskTop/test/clion_test/build/clion_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
