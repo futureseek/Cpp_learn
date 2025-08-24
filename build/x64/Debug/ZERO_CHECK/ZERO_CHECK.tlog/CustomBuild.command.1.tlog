@@ -1,6 +1,6 @@
-^D:\DESKTOP\TEST\CLION_TEST\BUILD\CMAKEFILES\9B08E761918E53C13050335058E3B1CD\GENERATE.STAMP.RULE
+^D:\DESKTOP\TEST\CPP_LEARN\BUILD\CMAKEFILES\3CF4F562D3BE98DC5B7E5FF0F76E4D8D\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/DeskTop/test/clion_test -BD:/DeskTop/test/clion_test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/DeskTop/test/clion_test/build/clion_test.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/desktop/test/Cpp_learn -BD:/desktop/test/Cpp_learn/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/desktop/test/Cpp_learn/build/clion_test.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

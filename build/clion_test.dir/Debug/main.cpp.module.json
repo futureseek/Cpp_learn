@@ -5,7 +5,7 @@
         {
             "primary-output": "clion_test.dir\\Debug\\main.obj",
             "outputs": [
-                "D:\\DeskTop\\test\\clion_test\\build\\clion_test.dir\\Debug\\vc143.pdb",
+                "D:\\desktop\\test\\Cpp_learn\\build\\clion_test.dir\\Debug\\vc143.pdb",
                 "clion_test.dir\\Debug\\"
             ],
             "requires": []

@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "Factory_Product.h"
+#include "Singleton.h"
 
 
 
@@ -15,7 +15,7 @@ int main() {
     std::cin.tie(0);
     std::cout.tie(0);
 
-    Factory_Test::test();
+    Singleton_test::test();
 
 
     return 0;

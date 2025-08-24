@@ -1,3 +1,3 @@
-D:/DeskTop/test/clion_test/build/CMakeFiles/clion_test.dir
-D:/DeskTop/test/clion_test/build/CMakeFiles/ALL_BUILD.dir
-D:/DeskTop/test/clion_test/build/CMakeFiles/ZERO_CHECK.dir
+D:/desktop/test/Cpp_learn/build/CMakeFiles/clion_test.dir
+D:/desktop/test/Cpp_learn/build/CMakeFiles/ALL_BUILD.dir
+D:/desktop/test/Cpp_learn/build/CMakeFiles/ZERO_CHECK.dir
