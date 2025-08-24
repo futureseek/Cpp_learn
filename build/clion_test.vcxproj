@@ -318,6 +318,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClCompile Include="D:\desktop\test\Cpp_learn\main.cpp" />
     <ClInclude Include="D:\desktop\test\Cpp_learn\Singleton.h" />
+    <ClInclude Include="D:\desktop\test\Cpp_learn\Observer.h" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

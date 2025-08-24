@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "Singleton.h"
+#include "Observer.h"
 
 
 
@@ -15,7 +15,7 @@ int main() {
     std::cin.tie(0);
     std::cout.tie(0);
 
-    Singleton_test::test();
+    Observer_Test::test();
 
 
     return 0;
