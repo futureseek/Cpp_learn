@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "Observer.h"
+#include "Decorator.h"
 
 
 
@@ -15,7 +15,7 @@ int main() {
     std::cin.tie(0);
     std::cout.tie(0);
 
-    Observer_Test::test();
+    Decorator_Test::test();
 
 
     return 0;
