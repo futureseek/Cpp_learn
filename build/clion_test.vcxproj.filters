@@ -15,6 +15,12 @@
     <ClInclude Include="D:\desktop\test\Cpp_learn\Decorator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="D:\desktop\test\Cpp_learn\ThreadPool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\desktop\test\Cpp_learn\FileSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="D:\desktop\test\Cpp_learn\CMakeLists.txt" />
