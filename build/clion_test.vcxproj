@@ -318,6 +318,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="D:\desktop\test\Cpp_learn\Decorator.h" />
     <ClInclude Include="D:\desktop\test\Cpp_learn\ThreadPool.h" />
     <ClInclude Include="D:\desktop\test\Cpp_learn\FileSystem.h" />
+    <ClInclude Include="D:\desktop\test\Cpp_learn\LockFreeQueue.h" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
