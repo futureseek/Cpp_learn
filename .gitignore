@@ -3,3 +3,8 @@ build/
 # 忽略所有 .o 和 .a 文件（编译产物）
 *.o
 *.a
+# 忽略所有以 "cmake-build-" 开头的目录（覆盖各种构建类型）
+cmake-build-*/
+
+# CLion 等 IDE 的配置目录
+.idea/
