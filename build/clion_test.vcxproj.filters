@@ -6,32 +6,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\desktop\test\Cpp_learn\Singleton.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\desktop\test\Cpp_learn\Observer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\desktop\test\Cpp_learn\Decorator.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\desktop\test\Cpp_learn\ThreadPool.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\desktop\test\Cpp_learn\FileSystem.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\desktop\test\Cpp_learn\LockFreeQueue.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <CustomBuild Include="D:\desktop\test\Cpp_learn\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{F3C003FC-F81E-38BC-AD50-C4A1E58078EF}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{E8F7F8CF-ACA5-3715-A4CB-10C195ACD8EE}</UniqueIdentifier>
     </Filter>
