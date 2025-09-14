@@ -1,0 +1,8 @@
+//
+// Created by 12793 on 2025/9/14.
+//
+
+#ifndef CPP_LEARN_CIRCULARBUFFER_H
+#define CPP_LEARN_CIRCULARBUFFER_H
+
+#endif //CPP_LEARN_CIRCULARBUFFER_H
