@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/Data_Structure_Component)
 
-add_executable(clion_test main.cpp)
+add_executable(clion_test main.cpp Data_Structure_Component/CircularBuffer.h)

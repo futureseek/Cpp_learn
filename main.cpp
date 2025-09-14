@@ -1,5 +1,6 @@
 ﻿#include <iostream>
-#include "Data_Structure_Component/LockFreeQueue.h"
+
+#include "Data_Structure_Component/CircularBuffer.h"
 
 
 
@@ -16,7 +17,7 @@ int main() {
     std::cout.tie(0);
 
 
-    LockFreeQueue_Test::test();
+    CircularBuffer_Test::test();
 
     return 0;
 }
