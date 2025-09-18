@@ -23,7 +23,7 @@
 - [√] LRU缓存
 - [√] 哈希表
 - [√] 跳表
-- Bloom Filter
+- [√] Bloom Filter
 - Trie树
 - 并查集
 # 并发控制组件
