@@ -9,9 +9,10 @@
 mkdir build
 cd build
 # 编译
+cmake ..
 cmake --build .
 # 运行 在build目录下
 debug/clion_test.exe
 ```
 
-ps:部分文件如果未整理到文件夹下的需要自行到cmakelists增加引用
+ps:部分文件如果未整理到文件夹下的需要自行到cmakelists增加引用,注意平台的问题，有些适用于linux
